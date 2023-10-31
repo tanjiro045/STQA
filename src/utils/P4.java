@@ -10,7 +10,7 @@ public class P4 {
 	static WebDriver driver;
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
-				System.setProperty("webdriver.chrome.driver","C:\\Users\\Sunny sh\\Downloads\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe");
+				System.setProperty("webdriver.chrome.driver","C:\\Users\\Downloads\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe");
 				 driver = new ChromeDriver();
 				 String appUrl = "https://en.wikipedia.org/wiki/Main_Page";
 				 driver.get(appUrl);

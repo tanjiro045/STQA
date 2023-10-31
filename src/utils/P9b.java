@@ -16,7 +16,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 public class P9b {
 	
 	public static void main(String[] args) throws InterruptedException {
-		System.setProperty("webdriver.chrome.driver", "C:\\Users\\Sunny sh\\Downloads\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "C:\\Users\\Downloads\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe");
         WebDriver wd = new ChromeDriver();
         wd.get("http://127.0.0.1:5500/index.html");
         Select s = new Select(wd.findElement(By.id("car")));

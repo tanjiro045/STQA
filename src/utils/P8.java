@@ -16,7 +16,8 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 public class P8 {
 
 	public static void main(String[] args) throws InterruptedException {
-		// TODO Auto-generated method stubSystem.setProperty("webdriver.chrome.driver","C:\\Users\\Sunny sh\\Downloads\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe");
+		// TODO Auto-generated method stub
+		System.setProperty("webdriver.chrome.driver","C:\\Users\\Downloads\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe");
 
         WebDriver webDriver = new ChromeDriver();
 

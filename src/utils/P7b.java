@@ -18,7 +18,7 @@ public class P7b {
 	static WebDriver driver;
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
-		System.setProperty("webdriver.chrome.driver","C:\\Users\\Sunny sh\\Downloads\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver","C:\\Users\\Downloads\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
 		
 		// explicit wait - to wait for the compose button to be click-able

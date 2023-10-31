@@ -15,7 +15,7 @@ public class P6 {
 	public static void main(String[] args) throws InterruptedException{
 		// TODO Auto-generated method stub
 		// TODO code application logic here
-		System.setProperty("webdriver.chrome.driver", "C:\\Users\\Sunny sh\\Downloads\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "C:\\Users\\Downloads\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe");
 		WebDriver wd = new ChromeDriver();
 		wd.get("https://practicetestautomation.com/practice-test-login/");
 		wd.manage().window().maximize();

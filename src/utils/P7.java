@@ -17,7 +17,7 @@ public class P7 {
 		// TODO Auto-generated method stub
 		String aTitle = "";
 		String eTitle = "Logged In Successfully | Practice Test Automation";
-		System.setProperty("webdriver.chrome.driver","C:\\Users\\Sunny sh\\Downloads\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver","C:\\Users\\Downloads\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe");
 
 		WebDriver wd = new ChromeDriver();
 		wd.get("https://practicetestautomation.com/practice-test-login/");

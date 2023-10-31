@@ -17,7 +17,7 @@ public class P10 {
 
 	public static void main(String[] args) throws InterruptedException{
 		// TODO Auto-generated method stub
-		System.setProperty("webdriver.chrome.driver", "C:\\Users\\Sunny sh\\Downloads\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "C:\\Users\\Downloads\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe");
         WebDriver driver = new ChromeDriver();
         driver.get("https://demo.guru99.com/test/radio.html");
         WebElement radio1 = driver.findElement(By.id("vfb-7-1"));
