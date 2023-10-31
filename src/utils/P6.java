@@ -9,7 +9,7 @@ import org.openqa.selenium.Keys;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.support.ui.WebDriverWait;
-
+//P6 - Demonstrate the Locator. (id, css selector, path)
 public class P6 {
 
 	public static void main(String[] args) throws InterruptedException{

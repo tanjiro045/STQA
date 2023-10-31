@@ -1,5 +1,5 @@
 package utils;
-
+// Installation of TestNg, running TestNg and TestNg annotations.
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.AfterSuite;
@@ -25,7 +25,6 @@ public class P12 {
 	  @BeforeMethod
 	  public void beforeMethod() {
 		  System.out.println("Before Method");
-
 	  }
 
 	  @AfterMethod

@@ -3,7 +3,7 @@ import java.util.Scanner;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
-
+//P2 - Implement Web Drivers on Chrome & Firefox Browsers. 
 public class P2 {
 	static WebDriver wd;
 	public static void main(String[] args) {

@@ -12,7 +12,7 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
 //Demonstrate Handling Drop Down and List Boxes.
-//A} ListBox
+//B} ListBox
 public class P9b {
 	
 	public static void main(String[] args) throws InterruptedException {

@@ -5,7 +5,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
-
+//P5 - Implement the find element command. 
 public class P5 {
 
 	public static void main(String[] args) throws InterruptedException{

@@ -1,5 +1,5 @@
 package utils;
-
+//P7 - Demonstrate synchronization in selenium.
 //implicit wait
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
